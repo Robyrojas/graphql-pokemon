@@ -17,7 +17,6 @@ const GET_POKEMON_INFO = gql`
   }
 }`;
 
-
 const GET_POKEMON_INFO2 = gql`
 {
   pokemons(first: 10) {
