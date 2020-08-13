@@ -1,0 +1,14 @@
+body {
+    margin: 5px;
+    font-family: 'kalam';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .container > .card img {
+      max-width: 100%;
+  }
+
+  .image-Card{
+    height: 180px;
+  }
