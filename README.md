@@ -1,3 +1,6 @@
+# graphql-pokemon
+Proyecto en React con uso de Redux, MaterialUI y GraphQL
+
 # Create React App example
 
 ## How to use
